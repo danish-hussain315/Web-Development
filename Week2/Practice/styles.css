@@ -1,0 +1,27 @@
+.div1{
+	flex: ;
+	height: 300px;
+	width: 300px;
+    background-color: blue;
+    position: relative;
+
+
+}
+.div2{
+	height: 40px;
+	width: 40px;
+    background-color: goldenrod;
+    position: absolute;
+    align-items: center;
+    
+
+
+
+
+}
+
+
+
+
+
+

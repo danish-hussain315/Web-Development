@@ -1,0 +1,39 @@
+
+.image-container {
+    width: 25%; /* Set the width of each container to 25% */
+    float: left; /* Make containers float left to align them horizontally */
+    box-sizing: border-box; /* Include padding and border in the width */
+    padding: 10px; /* Add padding for spacing between containers */
+    margin-bottom: 20px;
+
+}
+.description{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.price{
+	color: red; /* Set the font color */
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+	width: 196px;
+	height: 174px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 110px;
+}
+h1{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
