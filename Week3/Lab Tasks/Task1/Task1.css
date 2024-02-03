@@ -1,0 +1,44 @@
+.header , .footer{
+  background-color: aqua;
+  font-size: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+body{
+  background-color: coral;
+  
+}
+.container{
+  display: flex;
+}
+
+.aside{
+  margin-top: 20px;
+  width: 350px;
+  height: 450px;
+  background-color: cornflowerblue;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+.other{
+  
+  margin-top: 20px;
+  width: 970px;
+  background-color: rgb(146, 58, 72);
+  margin-bottom: 20px;
+}
+.box{
+  margin: 20px;
+  width: 275px;
+  height: 240px;
+  float: left;
+  background-color: darkgray;
+  margin-top: 150px;
+}

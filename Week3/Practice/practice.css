@@ -1,0 +1,30 @@
+.sub_btn{
+	background-color: gray;
+	width: 90px;
+	height: 40px;
+}
+.sub_btn:hover{
+	background-color: green;
+	cursor: pointer;
+}
+.sub_btn:focus{
+	background-color: blueviolet;
+}
+
+.sub_btn:select{
+	background-color: gold;
+}
+
+
+.login{
+	background-color: gray;
+	width: 90px;
+	height: 40px;
+}
+.login:hover{
+	background-color: green;
+	cursor: pointer;
+}
+.login:focus{
+	background-color: blueviolet;
+}
